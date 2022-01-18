@@ -6,9 +6,10 @@ The purpose of this application is display information from Dana's js file of UF
 
 # How to Use
 Begin by loading the <a href="index.html">index.html<a/> page.  This will display the main page and application.  You will find the list of filters in the lower left corner of the page and the table of data immediatley to the right, as seen below:<br>
+ 
 ![Unfiltered Table](/Static/images/table_unfiltered.png)<br> 
  
- Initially the table will be unfiltered, displaying every record in the data set.  In the  
+Initially the table will be unfiltered, displaying every record in the data set.  In the  
 
 
 ![Filtered Table](/Static/images/table_filtered.png)
