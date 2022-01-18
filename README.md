@@ -6,8 +6,8 @@
 
 # How to Use
 
-
-
+![Unfiltered Table](/Static/Images/table_unfiltered.png)
+![Filtered Table](/Static/Images/table_filtered.png)
 
 
 
