@@ -27,3 +27,8 @@ This tool does serviceable work, delivering relevant results to a user's query. 
 
 - Providing the user with the ability to create bar line graphs with the filtered data would be a powerful feature.  A quick glance at the table suggests that sightings spike on Jan 1st, but a line or bar graph clearly show the magnitude of the spike.
   
+# Tools used
+- js
+- html
+- bootstrap
+- d3
